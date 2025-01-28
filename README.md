@@ -1,7 +1,7 @@
 # rpi-pico-meshtastic
 Meshtastic firmware for Raspberry Pico.
 
-### raspberry pico pinout
+### Raspberry Pi Pico pinout
 
 ```bash
 +------------+--------+------------------------------------------+
@@ -20,3 +20,13 @@ Meshtastic firmware for Raspberry Pico.
 +------------+--------+------------------------------------------+
 ```
 
+### Links
+
+- [Meshtastic Project](https://meshtastic.org)
+- [Meshtastic Github](https://github.com/meshtastic)
+
+- [Raspberry Pico](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
+- [Raspberry Pico W](https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf)
+
+- [Raspberry Pico 2](https://datasheets.raspberrypi.com/pico/pico-2-datasheet.pdf)
+- [Raspberry Pico 2 W](https://datasheets.raspberrypi.com/picow/pico-2-w-datasheet.pdf)

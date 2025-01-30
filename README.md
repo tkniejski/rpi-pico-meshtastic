@@ -22,11 +22,20 @@ Meshtastic firmware for Raspberry Pico.
 
 ### Links
 
+### Meshtastic
+
 - [Meshtastic Project](https://meshtastic.org)
 - [Meshtastic Github](https://github.com/meshtastic)
+
+### Raspberry Pico:
 
 - [Raspberry Pico](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
 - [Raspberry Pico W](https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf)
 
+### Raspberry Pico 2
+
 - [Raspberry Pico 2](https://datasheets.raspberrypi.com/pico/pico-2-datasheet.pdf)
 - [Raspberry Pico 2 W](https://datasheets.raspberrypi.com/picow/pico-2-w-datasheet.pdf)
+
+### RP-2040-LoRa
+- [RP2040-LoRa](https://www.waveshare.com/wiki/RP2040-LoRa)

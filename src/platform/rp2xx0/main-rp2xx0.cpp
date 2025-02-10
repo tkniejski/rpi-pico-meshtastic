@@ -98,9 +98,14 @@ void getMacAddr(uint8_t *dmac)
 
 void rp2040Setup()
 {
-#ifdef RP2040_64_MHZ
-    /* Set 64 MHz frequency */
-    set_sys_clock_khz(64 * KHZ, false);
+#ifdef RP2040_48_MHZ
+    /* Set 48 MHz frequency */
+    set_sys_clock_khz(48 * KHZ, false);
+#endif
+
+#ifdef RP2040_72_MHZ
+    /* Set 72 MHz frequency */
+    set_sys_clock_khz(72 * KHZ, false);
 #endif
 
 #ifdef RP2350_84_MHZ

@@ -33,8 +33,8 @@ Boards: rpipico, rpico2, rpipicow, rpipico2w, rp2040-lora
 | raspberry pico 2  | 40-45 mA                         | ---                               |
 | raspberry pico 2w | 90-95 mA (wifi on)               | ---                               |
 |                   | --- (wifi off)                   | ---                               |
-| rp2040-lora       | 45 mA                            | ---                               |
-+---------------------+--------------------------------+-----------------------------------+
+| rp2040-lora       | 45 mA                            | 30mA (48Mhz) 35mA (72Mhz)         |
++-------------------+----------------------------------+-----------------------------------+
 
 * firmware without modification
 ** firmware with CPU frequency modification

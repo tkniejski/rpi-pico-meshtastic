@@ -30,7 +30,7 @@ Boards: rpipico, rpico2, rpipicow, rpipico2w, rp2040-lora
 | raspberry pico    | 40-45 mA                         | 30 mA (48Mhz) 35 mA (72Mhz)       |
 | raspberry pico w  | 95-100 mA (wifi on)              | 80-85 mA (72Mhz)                  |
 |                   | 65 mA (wifi off)                 | 50-55 mA (72Mhz)                  |
-| raspberry pico 2  | 40-45 mA                         | ---                               |
+| raspberry pico 2  | 40-45 mA                         | 30 mA (84Mhz)                     |
 | raspberry pico 2w | 90-95 mA (wifi on)               | ---                               |
 |                   | --- (wifi off)                   | ---                               |
 | rp2040-lora       | 45 mA                            | 30 mA (48Mhz) 35 mA (72Mhz)       |
